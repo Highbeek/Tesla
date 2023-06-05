@@ -1,4 +1,4 @@
-# <h1 align="center">Tesla Mobile App Clone</h1>
+# <h1 align="center" font-size="40">Tesla Mobile App Clone</h1>
 
 This is a mobile app clone of the Tesla app, built using React Native and Expo Router. The app replicates the UI elements and provides a navigation system similar to the official Tesla app.
 

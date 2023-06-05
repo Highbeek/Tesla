@@ -1,33 +1,33 @@
-#Tesla Mobile App Clone
-This is a mobile app clone of the Tesla app, built using React Native and Expo. The app replicates the user interface and basic navigation flow of the official Tesla app.
+# <h1 align="center">Tesla Mobile App Clone</h1>
 
-#Features
-Home Screen: Upon launching the app, users are presented with a home screen that displays general information about their Tesla vehicle.
-Navigation: Users can navigate between different screens/pages within the app to access specific features and information.
-Page 1: The first page displays details about the vehicle's controls, such as locking/unlocking, climate control, and charging status.
-Page 2: The second page provides information about the vehicle's climate settings and allows users to adjust temperature and fan speed.
+This is a mobile app clone of the Tesla app, built using React Native and Expo Router. The app replicates the UI elements and provides a navigation system similar to the official Tesla app.
 
-#Installation
+## Features
+
+- **Navigation**: Users can navigate between different screens/pages of the app using the Expo Router navigation system.
+- **Page Screens**: The app includes multiple screens/pages to simulate different sections of the Tesla mobile app, such as vehicle information, controls, settings, etc.
+- **UI Elements**: The UI elements used in the app resemble the design and style of the Tesla app, providing a familiar and intuitive user experience.
+
+## Installation
+
 To run the Tesla Mobile App Clone locally on your development environment, follow these steps:
 
-Clone the repository: git clone [repository-url]
-Install the dependencies: npm install or yarn install
-Start the development server: expo start
-Run the app on an emulator/simulator or a physical device using the Expo Go app.
-Usage
-The Tesla Mobile App Clone is built using React Native and Expo, utilizing the Expo Router library for basic navigation. The app follows a simple navigation flow:
+1. Clone the repository: `git clone [repository-url]`
+2. Install the dependencies: `npm install` or `yarn install`
+3. Start the development server: `npm start` or `yarn start`
+4. Run the app on an emulator/simulator or a physical device using the preferred development tool (e.g., Expo Go app).
 
-The home screen is rendered upon launching the app, displaying general vehicle information.
-Users can navigate to different pages/screens by tapping on the respective buttons or links.
-Each page represents a specific feature or information section related to the Tesla vehicle.
-The navigation bar or buttons are used to go back to the previous screen or return to the home screen.
-Technologies Used
-React Native: The core framework for building the mobile app, providing a cross-platform development environment.
-Expo: A set of tools and services for developing and deploying React Native apps more easily.
-Expo Router: A lightweight routing library for handling navigation between screens/pages.
+## Technologies Used
 
-#Credits
+- React Native: The core framework for building the mobile app, providing a cross-platform development environment.
+- Expo: A set of tools and services for developing and deploying React Native apps more easily.
+- Expo Router: A navigation library for handling app navigation and routing in the Tesla Mobile App Clone.
+
+## Credits
+
 This Tesla Mobile App Clone is developed by Highbeek. It is a personal project for learning and demonstration purposes and is not affiliated with Tesla, Inc.
 
-#Feedback and Contributions
+## Feedback and Contributions
+
 Feel free to provide feedback or suggestions for improvements. Contributions to the project are also welcome! Please create an issue or submit a pull request if you would like to contribute.
+
